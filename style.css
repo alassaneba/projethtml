@@ -1,0 +1,15 @@
+body{background: blue;
+    font-family: 'Modak', cursive;
+}
+h1{ 
+    color: cornsilk;
+    font-size: 30px;
+    font-weight: 100;
+}
+header{background-repeat: no-repeat;
+    background-position: top right;
+    background-repeat: 10%;
+    height: 1000px;
+    
+
+}
